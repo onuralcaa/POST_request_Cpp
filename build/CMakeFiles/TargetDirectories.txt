@@ -1,0 +1,3 @@
+/home/onur/Desktop/POST_Request_C++/build/CMakeFiles/program.dir
+/home/onur/Desktop/POST_Request_C++/build/CMakeFiles/edit_cache.dir
+/home/onur/Desktop/POST_Request_C++/build/CMakeFiles/rebuild_cache.dir
