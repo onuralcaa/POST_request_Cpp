@@ -4,7 +4,7 @@ This repository contains a simple example of how to make an HTTP POST request us
 
 ## Requirements
 
-- Linux OS
+- Linux operating systems
 - C++11 or later
 - CMake 3.1 or later
 - Curl library
